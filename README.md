@@ -12,7 +12,15 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+HOME
+![GitHub Logo](/images/home.png)
+ABOUT US
+![GitHub Logo](/images/about.png)
+TRAINING
+![GitHub Logo](/images/training.png)
+
+
+
 
 
 ## Result:
